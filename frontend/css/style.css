@@ -290,7 +290,7 @@ section {
 }
 
 .total-price-container p {
-  color: var(--btn-bg-color);
+  color: var(--accent-color);
 }
 
 /* MINTED CONTAINER */
